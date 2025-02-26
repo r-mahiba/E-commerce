@@ -42,13 +42,11 @@ nav {
 
 .country {
     display: flex;
-    align-items: end;
+    align-items: center;  /* Changed from end to center */
     height: 40px;
-    width: 90px;
     margin-bottom: 20px;
     margin-top: 20px;
 }
-
 .country div p {
     font-size: 12px;
 }
